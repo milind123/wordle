@@ -1,5 +1,5 @@
 # wordle
-Solve Wordle for changing these line in the program
+Solve Wordle by changing these line in the program
 
 		Set<Character> absetChars = strToSet("scpbthlatnor".toLowerCase());
 		String posPresent = "r@@@@";
