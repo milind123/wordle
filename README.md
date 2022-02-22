@@ -1,7 +1,7 @@
 # wordle
 Solve Wordle by changing these line in the program
 
-		Set<Character> absetChars = strToSet("scpbthlatnor".toLowerCase());
+		Set<Character> absentChars = strToSet("scpbthlatnor".toLowerCase());
 		String posPresent = "r@@@@";
 		String incorrectPos = "2u3e3o3r4r4o";
 
